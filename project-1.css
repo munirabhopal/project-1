@@ -1,0 +1,7 @@
+.navbar-dark .navbar-nav .nav-link {
+    color: white !important;
+    font-weight: 400;
+}
+li a:hover{
+    background-color: green;
+}
